@@ -1,0 +1,38 @@
+1. On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+2. git log, 9 commits
+
+3. git log -p
+
+4. cb30d72a3d94c108f393c163a35c1cc9bf18ffca, 36a8e55e4bbdd171ab57d979e1a802d740f2db9b
+
+5. Teams may work on the same repository or project without interfering with one another. This can be useful 
+for: fixing bugs, or implementing new features.
+
+6. Git status lets you inspect the working directory and the staging area, while
+git log only operates on the committed history.
+
+7. git log --follow Weapon.h
+
+8. git log --grep=<file>
+
+9. Inheritance is when a class system is defined as such when there are sub classes that derive from,
+or take the main properties of a super, or parent, class.
+Polymorphism is what allows different object types to behave differently, according to how their methods or functions are
+implemented.
+Encapsulation binds together the data and functions that manipulate the data, 
+and keeps both safe from outside interference and misuse.
+
+10. It uses polymorphism. The different classes behave differently, thanks to functions being defined uniquely for
+different classes. It uses encapsulation, as the member data for the classes are not directly accessible. One must 
+access them through the use of set and get functions.
